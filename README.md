@@ -28,6 +28,7 @@ These endpoints demonstrate how hospital data can be securely exposed for integr
 📊 Power BI Dashboards:
 
 Power BI is used to build interactive dashboards that analyze hospital performance, patient demographics, and departmental efficiency.
+
 The dashboards use multiple hospital tables such as:
 - Patients
 - Admissions
@@ -38,7 +39,7 @@ The dashboards use multiple hospital tables such as:
 
 This separation reflects a real-world setup where APIs handle operational access, while BI tools consume analytical datasets.
 
-1️⃣ Hospital Operational Overview (Executive Dashboard)
+1️⃣ Hospital Operational Overview (Executive Dashboard):
 This dashboard provides a high-level view of overall hospital performance.
 Key Metrics & Visuals:
 - Total Admissions (Card)
@@ -56,6 +57,7 @@ Slicers:
 
 2️⃣ Department Operations & Bottleneck Analysis:
 This dashboard focuses on departmental efficiency and identifying operational bottlenecks.
+
 Key Metrics & Visuals:
 - Admissions by Department (Bar Chart)
 - Average Length of Stay by Department (Clustered Bar Chart)
@@ -71,6 +73,7 @@ Slicers:
 
 3️⃣ Patient Demographics & Outcomes:
 This dashboard analyzes patient characteristics and treatment outcomes.
+
 Key Metrics & Visuals:
 - Total Patients (Card)
 - Average Patient Age (Card)
@@ -99,5 +102,6 @@ Slicers:
 - Project documentation
 
 
-📌 Author
+📌 Author:
+
 Hemavalli Mannemuddu
